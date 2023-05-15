@@ -39,3 +39,24 @@ git remote add origin master  (first time only)
 
 
 git push -f origin master
+
+
+
+
+===================================================================================
+
+Project requirement 
+
+1)project create 
+
+1.2) integrate bootstrap
+
+2)push the project on your own repository
+
+
+
+3)one login page 
+
+4)create a navbar  
+
+5)dashborad page
